@@ -3,7 +3,12 @@ body
 {
 	background: rgb(15,16,20);	
 	background-size : 100%
-	
+		background:url("../image/ruban-haut.jpg");
+	position: relative;
+	top: -24px;
+	width:auto;
+    height: 200px;
+	right:-8px;	
 }
 
 /* Image dégradé haut*/
@@ -14,9 +19,7 @@ header
 	top: -24px;
 	width:auto;
     height: 200px;
-	right:-8px;	
-	
-	
+	right:-8px;		
 }
 
 
@@ -34,36 +37,26 @@ header
 	line-height: 1;	
 	margin:0;
 	margin-left:-20px;
-	height:50px;
-	
-
-	
-	
+	height:50px;	
 }
+
+
 #ruban-acceuil li
 {
 	
 	margin: 2px;
 	padding: 2px;
 	display: inline;
-	list-style: none;
-	
-	
-	
-	
-	
-	
+	list-style: none;	
 }
+
+
 #ruban-acceuil a {
 	display:inline-block;
 	margin: 0 25px;
 	text-decoration:none;
 	color:white;
-	
 	margin-right:10px;	
-
-	
-	
 }
 
 
@@ -148,7 +141,7 @@ width:100%;
   transition:background .4s;
   cursor:pointer;
   outline:none;
-  margin-left:-6px;
+  margin-left:-16px;
   font-family:'Lucida Caligraphy', 'Monotype Corsiva', cursive;
 }
 
@@ -157,4 +150,3 @@ width:100%;
   
 }
 
-	
