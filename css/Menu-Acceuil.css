@@ -2,10 +2,10 @@
 nav {
   background: rgb(255,180,0);
   padding: 0;
-  float:center;
+  
   margin-right:-8px;
-  margin-left:-20px;
-  width:1924px;
+  margin-left:-24px;
+  width:1908px;
   
 }
 nav ul {
@@ -15,7 +15,6 @@ nav ul {
   line-height: 1;
   display: block;
   margin-top:-10px;
-  zoom: 1;
   position:relative;
   
   
@@ -110,13 +109,6 @@ nav.align-right li:first-child a:after {
   nav ul li {
     float: none;
     display: block;
-  }
-  nav ul li a {
-    width: 100%;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    border-bottom: 1px solid #fb998c;
   }
   nav ul li.last > a,
   nav ul li:last-child > a {

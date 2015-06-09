@@ -2,8 +2,7 @@
 body
 {
 	background: rgb(15,16,20);	
-	background-size : 100%
-		background:url("../image/ruban-haut.jpg");
+	background-size : 100%;
 	position: relative;
 	top: -24px;
 	width:auto;
@@ -17,7 +16,7 @@ header
 	background:url("../image/ruban-haut.jpg");
 	position: relative;
 	top: -24px;
-	width:auto;
+	width:1884px;
     height: 200px;
 	right:-8px;		
 }
@@ -31,12 +30,12 @@ header
 	font-family: 'Open Sans', sans-serif;
 	position:relative;
 	top:-14px;
-	width:1924px;
+	width:1908px;
 	text-transform: uppercase;
 	font-size: 13px;
 	line-height: 1;	
 	margin:0;
-	margin-left:-20px;
+	margin-left:-24px;
 	height:50px;	
 }
 
@@ -110,7 +109,7 @@ width:100%;
   margin:0;
   background:rgb(255,180,0);
   color:#FFF;
-  font-weight:2px;
+  
   font-size: 14pt;
   transition:background .4s;
   cursor:pointer;
@@ -136,7 +135,7 @@ width:100%;
   padding:4px;
   background:rgb(192,192,192);
   color:rgb(58,58,58);
-  font-weight:1px;
+
   font-size: 14pt;
   transition:background .4s;
   cursor:pointer;
