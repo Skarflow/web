@@ -22,11 +22,27 @@
 #contenu p
 {
 	color:white;
-	font-family: "Times New Roman", Serif;
-	font-size:19px;
+	font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	font-size:18px;
+
+}
+#contenu li
+{
+	color:white;
+	font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	font-size:18px;
 
 }
 
+ 
+#contenu p em
+{
+	color:rgb(6,255,6);
+	font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	font-size:18px;
+	font-style:normal;
+
+}
 
 h1
 {
@@ -68,3 +84,13 @@ h2 em
 
 }
 
+.soulignement-bleu em
+{
+	color:rgb(15,200,180);
+	font-style:normal;
+	text-decoration:underline;
+}
+ol
+{
+	line-height:30px;
+}
