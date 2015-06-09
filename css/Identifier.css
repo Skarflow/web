@@ -20,7 +20,8 @@ h1 em
 
 .inputbloc
 {
-  
+  width:230px;
+  height:35px;
   border-radius:1px;
   border-top:rgb(255,180,0) 1px solid;
   border-bottom:rgb(255,180,0) 4px solid;
@@ -30,7 +31,7 @@ h1 em
   
   
   outline:none;
-  font-size:15px;
+  font-size:14pt;
   font-family:'Open Sans', sans-serif;
   
 }
@@ -48,6 +49,7 @@ h1 em
 	font-family:'Open Sans', sans-serif;
 	color:white;
 	text-align:center;
+	font-size:16pt;
 
 }
 .bloc1 em
@@ -68,6 +70,7 @@ h1 em
 	position:absolute;
 	width:450px;
 	text-align:center;
+	
 	
 
 }

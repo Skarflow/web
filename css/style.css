@@ -56,15 +56,16 @@ header
 }
 #ruban-acceuil a {
 	display:inline-block;
-	margin: 0 30px;
+	margin: 0 25px;
 	text-decoration:none;
 	color:white;
-	margin-bottom:-8px;
+	
 	margin-right:10px;	
-	margin-top:8px;
+
 	
 	
 }
+
 
 
 /*Image-ruban*/
@@ -112,7 +113,8 @@ width:100%;
   border-radius:3px;
   border:rgba(255,180,0,.3) 0px solid;
   box-sizing:border-box;
-  padding:4px;
+  padding:2px;
+  margin:0;
   background:rgb(255,180,0);
   color:#FFF;
   font-weight:2px;
@@ -122,6 +124,7 @@ width:100%;
   outline:none;
   font-family:'Lucida Caligraphy', 'Monotype Corsiva', cursive;
   margin-left:900px;
+  
   
   
 }
