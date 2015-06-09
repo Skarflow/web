@@ -21,7 +21,9 @@
 
 #contenu p
 {
-	font-family:cursive;
+	color:white;
+	font-family: "Times New Roman", Serif;
+	font-size:19px;
 
 }
 
@@ -66,11 +68,3 @@ h2 em
 
 }
 
-p
-{
-	color:white;
-	text-transform : uppercase;
-	font-variant: small-caps;
-	font-family:'Open Sans', sans-serif;
-	font-size:10px;
-}
