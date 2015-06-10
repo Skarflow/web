@@ -53,8 +53,9 @@ h1
 	font-variant: small-caps;
 	font-family:'Open Sans', sans-serif;
 	text-align:center;
-	margin-top:70px;
+	margin-top:260px;
 	font-size:45px;
+	
 }
 
 h1 em
@@ -98,3 +99,9 @@ ol
 }
 
 
+.directeur
+{
+width:100px;
+margin: 0 auto;
+
+}
